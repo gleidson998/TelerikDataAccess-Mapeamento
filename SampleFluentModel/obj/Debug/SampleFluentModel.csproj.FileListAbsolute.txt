@@ -1,0 +1,17 @@
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\obj\Debug\SampleFluentModel.csproj.CoreCompileInputs.cache
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\SampleFluentModel.dll
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\SampleFluentModel.pdb
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\Google.Protobuf.dll
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\Telerik.OpenAccess.40.Extensions.dll
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\Telerik.OpenAccess.dll
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\Telerik.OpenAccess.Runtime.dll
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\Google.Protobuf.xml
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\Telerik.OpenAccess.xml
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\Telerik.OpenAccess.40.Extensions.xml
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\obj\Debug\SampleFluentModel.csproj.CopyComplete
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\obj\Debug\SampleFluentModel.dll
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\obj\Debug\SampleFluentModel.pdb
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\MySql.Data.dll
+C:\Users\gleid\source\repos\SampleFluentModel\SampleFluentModel\bin\Debug\MySql.Data.xml
